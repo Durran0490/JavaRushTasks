@@ -1,0 +1,1352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="11">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/HP.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/User01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup_1_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/1.JavaSyntax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/Quest.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/2.JavaCore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/Quest.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1518/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1518/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1608/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1608/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1609/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1609/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1632/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1632/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1632/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1633/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1633/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1711/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1711/Sex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1711/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1711/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1714/Beach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1714/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1717/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1717/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1719/ApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1719/Bean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1719/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1721/CorruptedDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1721/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1721/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1722/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1722/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1825/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1825/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1827/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1827/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1918/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1918/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/3.JavaMultithreading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/Quest.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2112/DBConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2112/FakeConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2112/Hippodrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2112/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2112/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2112/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2113/Hippodrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2113/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2113/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2201/OurUncaughtExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2201/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2201/StringForFirstThreadTooShortException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2201/StringForSecondThreadTooShortException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2201/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2201/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2304/MockDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2304/MockView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2304/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2304/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2305/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2305/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2306/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2306/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2307/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2307/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2308/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2308/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/AbstractDbSelectExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/vo/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/vo/NamedItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/vo/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/vo/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/vo/Subscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/vo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2310/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2310/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2311/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2311/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2312/KeyboardObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2312/Layer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2312/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2312/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2312/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2312/SnakeDirection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2312/SnakeSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2312/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2407/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2407/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2407/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2407/Sayable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2407/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2407/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2407/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/Sayable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/SuperDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2409/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2409/Jeans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2409/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2409/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2409/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2410/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2410/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2410/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2411/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2411/JustAnInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2411/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2411/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2412/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2412/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Arkanoid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/BaseObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Brick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Canvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/KeyboardObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Stand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2501/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2501/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2502/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2502/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2503/Column.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2503/Columnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2503/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2503/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2504/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2504/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2505/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2505/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2506/LoggingStateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2506/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2506/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2507/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2507/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2508/CustomThreadManipulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2508/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2508/TaskManipulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2508/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2509/CancellableTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2509/SocketTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2509/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2509/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2510/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2510/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2511/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2511/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2512/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2512/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2513/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2513/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2514/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2514/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2601/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2601/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2602/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2602/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2603/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2603/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2604/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2604/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2605/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2605/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2606/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2606/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2607/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2607/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2608/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2608/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2609/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2609/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2610/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2610/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2610/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2610/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2611/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2611/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2611/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2611/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2612/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2612/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2706/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2706/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2707/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2707/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2708/Apartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2708/RealEstate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2708/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2708/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2709/ConsumerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2709/ProducerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2709/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2709/TransferObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2709/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2710/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2710/MailServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2710/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2710/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2710/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2711/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2711/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task28/task2801/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task28/task2801/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task28/task2802/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task28/task2802/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task28/task2803/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task28/task2803/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task28/task2804/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task28/task2804/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task28/task2805/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task28/task2805/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task28/task2805/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task28/task2806/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task28/task2806/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task28/task2807/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task28/task2807/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task28/task2812/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task28/task2812/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/car/Cabriolet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/car/Sedan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/car/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Alive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/BloodGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Soldier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/StudentsDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/UniversityPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/UserHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/Work.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3008/Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3008/ConsoleHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3008/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3008/MessageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3008/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3008/client/BotClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3008/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3008/client/ClientGuiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3008/client/ClientGuiModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3008/client/ClientGuiView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3008/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/Archiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/CommandExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/ConsoleHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/FileProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/ZipFileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/command/ExitCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/command/ZipAddCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/command/ZipCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/command/ZipContentCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/command/ZipCreateCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/command/ZipExtractCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/command/ZipRemoveCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/exception/PathIsNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/exception/WrongZipFileException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/dao/mock/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/FakeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/MainModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/ModelData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/view/EditUserView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/view/UsersView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/4.JavaCollections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/Quest.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3101/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3101/MyFileVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3101/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3101/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3109/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3109/properties.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3109/properties.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3109/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3205/CustomInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3205/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3205/SomeInterfaceWithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3205/SomeInterfaceWithMethodsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3205/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.OnlineInternship/5.OnlineInternship.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.OnlineInternship/src/Internship.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instruction.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaRushTasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/META-INF/2.JavaCore.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/Quest.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1608/Solution$Politician.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1608/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1608/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1609/Solution$Mouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1609/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1609/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1632/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1632/Solution$TestedThread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1632/Solution$TestedThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1632/Solution$TestedThread3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1632/Solution$TestedThread5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1632/Solution$ThreadMes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1632/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1632/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1633/Solution$OurUncaughtExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1633/Solution$TestedThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1633/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1633/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1711/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1711/Sex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1711/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1711/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1714/Beach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1714/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1717/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1717/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1719/ApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1719/Bean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1719/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1721/CorruptedDataException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1721/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1721/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1722/Solution$Counter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1722/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1722/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1825/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1825/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1827/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1827/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1918/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1918/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/META-INF/3.JavaMultithreading.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/Quest.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2112/DBConnectionManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2112/FakeConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2112/Hippodrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2112/Horse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2112/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2112/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2113/Hippodrome$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2113/Hippodrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2113/Horse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2113/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task22/task2201/OurUncaughtExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task22/task2201/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task22/task2201/StringForFirstThreadTooShortException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task22/task2201/StringForSecondThreadTooShortException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task22/task2201/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task22/task2201/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2304/MockDB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2304/MockView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2304/Solution$DbDataProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2304/Solution$NameDataProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2304/Solution$Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2304/Solution$TaskDataProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2304/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2304/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2305/Solution$InnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2305/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2305/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2306/Solution$SuperUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2306/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2306/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2307/Solution$TEST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2307/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2307/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2308/Solution$BannedUserException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2308/Solution$Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2308/Solution$RestrictionException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2308/Solution$ServerNotAccessibleException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2308/Solution$UnauthorizedUserException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2308/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2308/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2309/AbstractDbSelectExecutor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2309/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2309/Solution$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2309/Solution$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2309/Solution$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2309/Solution$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2309/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2309/vo/Location.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2309/vo/NamedItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2309/vo/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2309/vo/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2309/vo/Subscription.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2309/vo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2309/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2310/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2310/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2310/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2311/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2311/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2311/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2312/KeyboardObserver$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2312/KeyboardObserver$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2312/KeyboardObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2312/Layer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2312/Mouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2312/Room.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2312/Snake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2312/SnakeDirection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2312/SnakeSection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task23/task2312/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2407/Cat$1CatPet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2407/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2407/Mouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2407/Pet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2407/Sayable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2407/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2407/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2407/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2408/Dog$1DogPet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2408/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2408/Mouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2408/Pet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2408/Sayable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2408/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2408/SuperDog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2408/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2408/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2409/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2409/Jeans.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2409/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2409/Util$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2409/Util$1AbstractJeans.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2409/Util$1Denim.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2409/Util$1Levis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2409/Util$Company.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2409/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2409/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2410/Iterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2410/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2410/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2410/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2411/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2411/JustAnInterface$B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2411/JustAnInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2411/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2411/Solution$A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2411/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2411/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2412/Solution$Stock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2412/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2412/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2413/Arkanoid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2413/Ball.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2413/BaseObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2413/Brick.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2413/Canvas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2413/KeyboardObserver$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2413/KeyboardObserver$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2413/KeyboardObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2413/Stand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2413/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2501/Solution$Alphabet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2501/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2501/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2502/Solution$Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2502/Solution$Wheel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2502/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2502/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2503/Column.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2503/Columnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2503/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2503/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2504/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2504/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2504/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2505/Solution$MyThread$MyUncaughtExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2505/Solution$MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2505/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2505/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2506/LoggingStateThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2506/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2506/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2507/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2507/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2508/CustomThreadManipulator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2508/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2508/TaskManipulator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2508/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2509/CancellableTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2509/SocketTask$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2509/SocketTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2509/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2509/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2510/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2510/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2510/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2511/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2511/Solution$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2511/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2511/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2512/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2512/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2513/Solution$Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2513/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2513/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2514/Solution$YieldRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2514/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task25/task2514/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2601/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2601/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2602/Solution$Soldier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2602/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2602/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2603/Solution$CustomizedComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2603/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2603/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2604/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2604/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2604/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2605/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2605/Solution$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2605/Solution$RethrowableTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2605/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2605/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2606/Solution$UrlTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2606/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2606/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2607/Solution$IntegerHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2607/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2607/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2608/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2608/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2609/Solution$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2609/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2609/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2610/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2610/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2610/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2610/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2611/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2611/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2611/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2611/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2612/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task26/task2612/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2706/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2706/Solution$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2706/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2706/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2707/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2707/Solution$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2707/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2707/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2708/Apartment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2708/RealEstate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2708/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2708/Solution$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2708/Solution$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2708/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2708/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2709/ConsumerTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2709/ProducerTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2709/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2709/TransferObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2709/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2710/Mail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2710/MailServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2710/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2710/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2710/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2711/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2711/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task28/task2801/Solution$E1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task28/task2801/Solution$E2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task28/task2801/Solution$E3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task28/task2801/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task28/task2801/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task28/task2802/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task28/task2802/Solution$1EmulatorThreadFactoryTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task28/task2802/Solution$AmigoThreadFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task28/task2802/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task28/task2802/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/car/Cabriolet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/car/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/car/Sedan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/car/Truck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/human/Alive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/human/BloodGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/human/Human$Size.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/human/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/human/Soldier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/human/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/human/StudentsDataBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/human/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/human/University.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/human/UniversityPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/human/Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/user/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/user/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/user/UserHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/user/Work.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task29/task2909/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/Connection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/ConsoleHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/MessageType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/Server$Handler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/client/BotClient$BotSocketThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/client/BotClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/client/Client$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/client/Client$SocketThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/client/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/client/ClientGuiController$GuiSocketThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/client/ClientGuiController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/client/ClientGuiModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/client/ClientGuiView$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/client/ClientGuiView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/Archiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/CommandExecutor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/ConsoleHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/FileManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/FileProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/Operation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/ZipFileManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/command/Command.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/command/ExitCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/command/ZipAddCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/command/ZipCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/command/ZipContentCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/command/ZipCreateCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/command/ZipExtractCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/command/ZipRemoveCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/exception/PathIsNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/exception/WrongZipFileException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task31/task3110/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/bean/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/controller/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/dao/mock/DataSource$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/dao/mock/DataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/model/FakeModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/model/MainModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/model/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/model/ModelData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/model/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/model/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/view/EditUserView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/view/UsersView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/view/View.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/Quest.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task31/task3101/FileUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task31/task3101/MyFileVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task31/task3101/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task31/task3101/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task31/task3109/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task31/task3109/properties.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task31/task3109/properties.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task31/task3109/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3205/CustomInvocationHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3205/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3205/SomeInterfaceWithMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3205/SomeInterfaceWithMethodsImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3205/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaRushTasks" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>internship</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1VtSU0v5DSkT5z13ErWaHpIgFdg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/JAVA/jsoup-1.12.1.jar!/" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.javarush.task.task25.task2505" />
+      <recent name="com.javarush.task.task16.task1631" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\intellijSandbox\JavaRushTasks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Solution (5)">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task28.task2802.Solution" />
+      <module name="3.JavaMultithreading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task28.task2802.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task27.task2710.Solution" />
+      <module name="3.JavaMultithreading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task27.task2710.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task28.task2801.Solution" />
+      <module name="3.JavaMultithreading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task28.task2801.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task28.task2807.Solution" />
+      <module name="3.JavaMultithreading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task28.task2807.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task28.task2812.Solution" />
+      <module name="3.JavaMultithreading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task28.task2812.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="JavaRushTasks" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="" />
+      <created>1477641354970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477641354970</updated>
+      <workItem from="1477641356271" duration="140000" />
+      <workItem from="1477661127283" duration="4000" />
+      <workItem from="1479892128348" duration="345000" />
+      <workItem from="1480667976301" duration="11000" />
+      <workItem from="1480667993737" duration="5000" />
+      <workItem from="1484838281338" duration="128000" />
+      <workItem from="1484897111171" duration="42000" />
+      <workItem from="1485161981498" duration="29000" />
+      <workItem from="1485162014696" duration="83000" />
+      <workItem from="1485177835943" duration="100000" />
+    </task>
+    <task id="LOCAL-00001" summary="11">
+      <created>1584356523011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584356523011</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="887000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="967" y="275" key="#com.intellij.ide.util.MemberChooser" timestamp="1584364476761">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="967" y="275" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584364476761" />
+    <state x="2847" y="198" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1582298357867" />
+    <state x="2728" y="401" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577707010662">
+      <screen x="1920" y="-9" width="1920" height="1040" />
+    </state>
+    <state x="2728" y="401" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1577707010662" />
+    <state x="578" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584289547264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="578" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584289547264" />
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582556635688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1582556635688" />
+    <state x="2610" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1578071024656" />
+    <state x="644" y="117" key="CommitChangelistDialog2" timestamp="1584445315190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="644" y="117" key="CommitChangelistDialog2/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584445315190" />
+    <state x="666" y="262" key="FileChooserDialogImpl" timestamp="1584286527350">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="262" key="FileChooserDialogImpl/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584286527350" />
+    <state x="666" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579030015769" />
+    <state x="794" y="437" width="356" height="166" key="Github.CreateGistDialog" timestamp="1584286509253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="437" width="356" height="166" key="Github.CreateGistDialog/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584286509253" />
+    <state x="830" y="414" width="719" height="328" key="Github.ShareDialog" timestamp="1584444776017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="830" y="414" width="719" height="328" key="Github.ShareDialog/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584444776017" />
+    <state x="734" y="260" width="688" height="587" key="Github.UntrackedFilesDialog" timestamp="1584287755940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="734" y="260" width="688" height="587" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584287755940" />
+    <state width="1877" height="230" key="GridCell.Tab.0.bottom" timestamp="1584445315314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="230" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584445315314" />
+    <state width="1877" height="180" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1583776370925" />
+    <state width="1877" height="230" key="GridCell.Tab.0.center" timestamp="1584445315314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="230" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584445315314" />
+    <state width="1877" height="180" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1583776370925" />
+    <state width="1877" height="230" key="GridCell.Tab.0.left" timestamp="1584445315314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="230" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584445315314" />
+    <state width="1877" height="180" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1583776370925" />
+    <state width="1877" height="230" key="GridCell.Tab.0.right" timestamp="1584445315314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="230" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584445315314" />
+    <state width="1877" height="180" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1583776370925" />
+    <state width="1453" height="206" key="GridCell.Tab.1.bottom" timestamp="1582232687584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="206" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1582232687584" />
+    <state width="1453" height="206" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1582204620390" />
+    <state width="1453" height="206" key="GridCell.Tab.1.center" timestamp="1582232687584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="206" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1582232687584" />
+    <state width="1453" height="206" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1582204620390" />
+    <state width="1453" height="206" key="GridCell.Tab.1.left" timestamp="1582232687584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="206" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1582232687584" />
+    <state width="1453" height="206" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1582204620390" />
+    <state width="1453" height="206" key="GridCell.Tab.1.right" timestamp="1582232687584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="206" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1582232687584" />
+    <state width="1453" height="206" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1582204620390" />
+    <state x="746" y="275" key="IDE.errors.dialog" timestamp="1581347023371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="746" y="275" key="IDE.errors.dialog/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1581347023371" />
+    <state x="440" y="95" key="SettingsEditor" timestamp="1584287348430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584287348430" />
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579030028476" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1584445074704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584445074704" />
+    <state x="656" y="345" width="773" height="350" key="com.intellij.ide.util.TipDialog" timestamp="1584440821376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" width="773" height="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584440821376" />
+    <state x="2576" y="336" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1584050147730" />
+    <state x="645" y="367" width="759" height="269" key="git4idea.rebase.GitRebaseDialog" timestamp="1584444705926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="645" y="367" width="759" height="269" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584444705926" />
+    <state x="720" y="353" key="git4idea.ui.GitUnstashDialog" timestamp="1584289769894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="720" y="353" key="git4idea.ui.GitUnstashDialog/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584289769894" />
+    <state x="565" y="154" key="new project wizard" timestamp="1584287914205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="154" key="new project wizard/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584287914205" />
+    <state x="783" y="198" key="refactoring.ChangeSignatureDialog" timestamp="1582626233302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="783" y="198" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1582626233302" />
+    <state x="721" y="250" width="672" height="677" key="run.anything.popup" timestamp="1583180785790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1583180785790" />
+    <state x="728" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1583862030704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="259" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1583862030704" />
+    <state x="2648" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1583753585177" />
+    <state x="750" y="210" key="svn.repositoryBrowser" timestamp="1584286539122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="750" y="210" key="svn.repositoryBrowser/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584286539122" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2411/Solution.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
