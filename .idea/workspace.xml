@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="New tasks completed 17.03.20">
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/ExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/MenuHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/actions/RedoAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/actions/StrikeThroughAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/actions/SubscriptAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/actions/SuperscriptAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/actions/UndoAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/listeners/FrameListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/listeners/TabbedPaneChangeListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/listeners/TextEditMenuListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/listeners/UndoListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/listeners/UndoMenuListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/HTMLFileFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
@@ -68,6 +58,7 @@
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -536,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584465335484</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New tasks completed 17.03.20">
+      <created>1585590839914</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585590839914</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -559,11 +557,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="New tasks completed 17.03.20" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2847" y="198" key="#com.intellij.ide.util.MemberChooser" timestamp="1585583768714">
+    <state x="2847" y="198" key="#com.intellij.ide.util.MemberChooser" timestamp="1585652165202">
       <screen x="1920" y="-9" width="1920" height="1040" />
     </state>
     <state x="967" y="275" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1585578327318" />
-    <state x="2847" y="198" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1585583768714" />
+    <state x="2847" y="198" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1585652165202" />
     <state x="2728" y="401" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577707010662">
       <screen x="1920" y="-9" width="1920" height="1040" />
     </state>
@@ -577,11 +575,11 @@
     </state>
     <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1582556635688" />
     <state x="2610" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1578071024656" />
-    <state x="2564" y="108" key="CommitChangelistDialog2" timestamp="1585584788066">
+    <state x="2564" y="108" key="CommitChangelistDialog2" timestamp="1585590837572">
       <screen x="1920" y="-9" width="1920" height="1040" />
     </state>
     <state x="644" y="117" key="CommitChangelistDialog2/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584465333746" />
-    <state x="2564" y="108" key="CommitChangelistDialog2/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1585584788066" />
+    <state x="2564" y="108" key="CommitChangelistDialog2/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1585590837572" />
     <state x="666" y="262" key="FileChooserDialogImpl" timestamp="1584286527350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -599,26 +597,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="734" y="260" width="688" height="587" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584287755940" />
-    <state width="1877" height="113" key="GridCell.Tab.0.bottom" timestamp="1585590592999">
+    <state width="1877" height="150" key="GridCell.Tab.0.bottom" timestamp="1585655750075">
       <screen x="1920" y="-9" width="1920" height="1040" />
     </state>
     <state width="1877" height="113" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1585577620622" />
-    <state width="1877" height="113" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1585590592999" />
-    <state width="1877" height="113" key="GridCell.Tab.0.center" timestamp="1585590592999">
+    <state width="1877" height="150" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1585655750075" />
+    <state width="1877" height="150" key="GridCell.Tab.0.center" timestamp="1585655750075">
       <screen x="1920" y="-9" width="1920" height="1040" />
     </state>
     <state width="1877" height="113" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1585577620622" />
-    <state width="1877" height="113" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1585590592999" />
-    <state width="1877" height="113" key="GridCell.Tab.0.left" timestamp="1585590592999">
+    <state width="1877" height="150" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1585655750075" />
+    <state width="1877" height="150" key="GridCell.Tab.0.left" timestamp="1585655750075">
       <screen x="1920" y="-9" width="1920" height="1040" />
     </state>
     <state width="1877" height="113" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1585577620622" />
-    <state width="1877" height="113" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1585590592999" />
-    <state width="1877" height="113" key="GridCell.Tab.0.right" timestamp="1585590592999">
+    <state width="1877" height="150" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1585655750075" />
+    <state width="1877" height="150" key="GridCell.Tab.0.right" timestamp="1585655750075">
       <screen x="1920" y="-9" width="1920" height="1040" />
     </state>
     <state width="1877" height="113" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1585577620622" />
-    <state width="1877" height="113" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1585590592999" />
+    <state width="1877" height="150" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1585655750075" />
     <state width="1453" height="206" key="GridCell.Tab.1.bottom" timestamp="1582232687584">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -648,15 +646,16 @@
     </state>
     <state x="440" y="95" key="SettingsEditor/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584287348430" />
     <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579030028476" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1584445984451">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2472" y="245" key="Vcs.Push.Dialog.v2" timestamp="1585590863223">
+      <screen x="1920" y="-9" width="1920" height="1040" />
     </state>
     <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1584445984451" />
-    <state x="656" y="345" width="773" height="350" key="com.intellij.ide.util.TipDialog" timestamp="1585577648551">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2472" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1585590863223" />
+    <state x="2576" y="336" width="773" height="350" key="com.intellij.ide.util.TipDialog" timestamp="1585642610980">
+      <screen x="1920" y="-9" width="1920" height="1040" />
     </state>
     <state x="656" y="345" width="773" height="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-9.1920.1040@0.0.1920.1040" timestamp="1585577648551" />
-    <state x="2576" y="336" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1584050147730" />
+    <state x="2576" y="336" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-9.1920.1040@1920.-9.1920.1040" timestamp="1585642610980" />
     <state x="645" y="367" width="759" height="269" key="git4idea.rebase.GitRebaseDialog" timestamp="1584444705926">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
