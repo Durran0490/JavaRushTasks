@@ -113,9 +113,9 @@ public class Controller {
             try(FileWriter fileWriter = new FileWriter(currentFile)) {
                 HTMLEditorKit htmlEditorKit = new HTMLEditorKit();
                 htmlEditorKit.write(fileWriter, document, 0, document.getLength());
-//                JOptionPane.showMessageDialog(view,
-//                        "Файл '" + chooser.getSelectedFile() +
-//                                " сохранен");
+                JOptionPane.showMessageDialog(view,
+                        "Файл '" + currentFile.getName() +
+                                " сохранен");
             } catch (Exception e) {
                 ExceptionHandler.log(e);
             }
@@ -134,9 +134,9 @@ public class Controller {
             try(FileWriter fileWriter = new FileWriter(currentFile)) {
                 HTMLEditorKit htmlEditorKit = new HTMLEditorKit();
                 htmlEditorKit.write(fileWriter, document, 0, document.getLength());
-//                JOptionPane.showMessageDialog(view,
-//                        "Файл '" + chooser.getSelectedFile() +
-//                                " сохранен");
+                JOptionPane.showMessageDialog(view,
+                        "Файл '" + chooser.getSelectedFile() +
+                                " сохранен");
             } catch (Exception e) {
                 ExceptionHandler.log(e);
             }
